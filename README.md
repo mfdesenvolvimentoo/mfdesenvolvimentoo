@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mfdesenvolvimentoo/mfdesenvolvimentoo/output/snake.svg" alt="Snake animation" />
+<img src="" alt="Snake animation" />
 
 ###
