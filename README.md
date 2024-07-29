@@ -56,8 +56,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://github.com/mfdesenvolvimentoo/mfdesenvolvimentoo/blob/main/snake.yml" alt="Snake animation" />
-
-###
