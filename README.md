@@ -58,6 +58,6 @@
 
 ###
 
-<img src="" alt="Snake animation" />
+<img src="https://github.com/mfdesenvolvimentoo/mfdesenvolvimentoo/blob/main/snake.yml" alt="Snake animation" />
 
 ###
