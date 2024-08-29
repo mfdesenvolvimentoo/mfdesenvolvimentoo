@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🎓 Técnico em Informática para Internet<br>- 💻 Desenvolvedor Front-end<br>- 🚀 Apaixonado por criar interfaces de usuário incríveis e responsivas</p>
+<p align="left">- 🎓 Futuro Técnico em Informática para Internet<br>- 💻 Desenvolvedor Front-end<br>- 🚀 Apaixonado por criar interfaces de usuário incríveis e responsivas</p>
 
 ###
 
